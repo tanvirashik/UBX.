@@ -1,0 +1,118 @@
+/* font start  */
+
+/* font end */
+body{
+    font-family: ;
+    font-size: ;
+    color: ;
+    text-align: center;
+}
+#wrapper{
+    margin: auto;
+    width: 1000px;
+}
+ /* header start  */
+.header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.h_text{}
+.h_text img{}
+.h_text p{
+    color: #354A9D;
+    font-family: bold;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+ /* header end */
+  /* bannder start  */
+  .banner{
+
+  }
+  .b_text{
+      background-color: #354A9D;
+  }
+.b_text h1{
+    color: #fff;
+    font-weight: 700;
+    padding: 30px 30px;
+    line-height: 50px;
+}
+  /* bannder end */
+/* delevary start  */
+.delevary{
+    margin-top: 70px;
+}
+.del{
+    padding: 20px;
+    width: 550px;
+    margin: auto;
+    color: #fff;
+    font-size: 32px;
+    border-radius: 10%;
+    background-color: #F0515A;
+}
+.del h2{
+    font-weight: 700;
+}
+.callchat{
+    margin-top:30px;
+    margin-bottom:70px;
+}
+.call{
+    font-size: 30px;
+    text-decoration: none;
+    margin-right:20px;
+    padding: 5px 25px;
+    color: #fff;
+    transition: 0.5s;
+    border-radius: 10px;
+    background-color: #0B9444;
+}
+.call:hover{
+    color: #fff;
+    background-color: #136e39;
+}
+.chat{
+    font-size: 30px;
+    text-decoration: none;
+    margin-right:20px;
+    padding: 5px 25px;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.5s;
+    background-color: #0F75BC;
+}
+.chat:hover{
+    color: #fff;
+    background-color: #15496e;
+}
+
+.thank{
+    width: 700px;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 20%;
+    padding: 50px 10px;
+    background-color: #354A9D;
+}
+.thank h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+/* delevary end */
+/* footer start  */
+.footer{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 70px;
+    padding-bottom: 30px;
+    display: block;
+}
+.a img{
+    width: 100%;
+}
+/* footer end */
